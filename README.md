@@ -1,1 +1,1 @@
-[Web con Jquery](/pagina.JPG)
+[(/pagina.JPG)]
