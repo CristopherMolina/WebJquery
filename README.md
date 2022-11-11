@@ -1,1 +1,1 @@
-[(/pagina.JPG)]
+[!(/pagina.JPG)]
