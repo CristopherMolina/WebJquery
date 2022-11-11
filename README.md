@@ -1,1 +1,1 @@
-[!(/pagina.JPG)]
+[![Web con Jquery](/pagina.JPG)]
